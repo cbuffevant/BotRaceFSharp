@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BotRaceFSharp", "BotRaceFSharp\BotRaceFSharp.fsproj", "{98769D4E-3F25-435B-A7FC-113493A68E3B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BotRaceFSharp.Test", "BotRaceFSharp.Test\BotRaceFSharp.Test.fsproj", "{EA906D30-C9C8-46E9-96C9-64236D7186D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98769D4E-3F25-435B-A7FC-113493A68E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98769D4E-3F25-435B-A7FC-113493A68E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98769D4E-3F25-435B-A7FC-113493A68E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98769D4E-3F25-435B-A7FC-113493A68E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA906D30-C9C8-46E9-96C9-64236D7186D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA906D30-C9C8-46E9-96C9-64236D7186D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA906D30-C9C8-46E9-96C9-64236D7186D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA906D30-C9C8-46E9-96C9-64236D7186D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
